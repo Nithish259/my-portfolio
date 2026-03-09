@@ -1,3 +1,9 @@
+import councelling from "../assets/images/councelling.png";
+import expensetracker from "../assets/images/expense-tracker.png";
+import spotifyClone from "../assets/images/spotify-clone.png";
+import kanban from "../assets/images/kanban-board.png";
+import notes from "../assets/images/notes.png";
+
 export const projects = [
   {
     id: 1,
@@ -13,7 +19,7 @@ export const projects = [
       "Stripe",
       "Tailwind CSS",
     ],
-    image: "/images/councelling.png",
+    image: councelling,
     demoUrl: "https://councelling121.netlify.app/",
     githubUrl: "https://github.com/Nithish259/councelling-app.git",
   },
@@ -31,7 +37,7 @@ export const projects = [
       "Chart.js",
       "Tailwind CSS",
     ],
-    image: "/images/expense-tracker.png",
+    image: expensetracker,
     demoUrl: "https://expensetrackermern25.netlify.app/dashboard",
     githubUrl: "https://github.com/Nithish259/EXPENSETRACKER.git",
   },
@@ -49,7 +55,7 @@ export const projects = [
       "Cloudinary",
       "Tailwind CSS",
     ],
-    image: "/images/spotify-clone.png",
+    image: spotifyClone,
     demoUrl: "https://spotify-clone-121.netlify.app/",
     githubUrl: "https://github.com/Nithish259/spotify-full-stack-clone.git",
   },
@@ -60,7 +66,7 @@ export const projects = [
       "A drag-and-drop productivity board that helps users organize tasks using columns like To-Do, In Progress, and Done.",
     category: "Frontend",
     technologies: ["React", "Tailwind CSS", "React DnD", "Context API"],
-    image: "/images/kanban-board.png",
+    image: kanban,
     demoUrl: "https://taskmanagerkanban.netlify.app/",
     githubUrl: "https://github.com/Nithish259/kanban-board.git",
   },
@@ -71,7 +77,7 @@ export const projects = [
       "A simple note-taking application that allows users to create, edit, delete, and organize notes with a clean UI.",
     category: "Frontend",
     technologies: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-    image: "/images/notes.png",
+    image: notes,
     demoUrl: "https://notesapp121.netlify.app/",
     githubUrl: "https://github.com/Nithish259/notes-app.git",
   },

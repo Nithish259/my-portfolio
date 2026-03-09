@@ -1,5 +1,5 @@
 import { ChevronDown, Star } from "lucide-react";
-import image from "../../../public/images/developer-portrait.png";
+import image from "../../../public/developer-portrait.png";
 import {
   SiReact,
   SiNextdotjs,
