@@ -5,7 +5,7 @@ export const PERSONAL_INFO = {
   location: "Chennai , Tamil Nadu",
   tagline:
     "Crafting seamless digital experiences with mordern web technologies",
-  resume: "/Nithish_resume.pdf",
+  resume: "/Nithish_resume final.pdf",
   bio: [
     "Full Stack Developer with 2.8 years of professional experience working with Angular and .NET MVC to develop scalable and responsive web applications. Skilled in JavaScript, frontend architecture, and backend integration. Currently expanding expertise into the MERN stack, building modern full-stack applications using React, Node.js, Express, and MongoDB. Passionate about writing clean code, solving complex problems, and continuously improving as a developer.",
   ],
