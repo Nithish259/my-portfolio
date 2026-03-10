@@ -59,7 +59,7 @@ export const skills = [
     id: 9,
     name: "Angular",
     icon: "Component",
-    level: "Intermediate",
+    level: "Advanced",
     experience: "1.5 years",
   },
   {

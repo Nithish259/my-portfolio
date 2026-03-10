@@ -18,6 +18,7 @@ export const projects = [
       "Express",
       "Stripe",
       "Tailwind CSS",
+      "WEBRTC",
     ],
     image: councelling,
     demoUrl: "https://councelling121.netlify.app/",
